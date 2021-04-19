@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "NIE ODCHODŹ"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Cieszę się, że jesteś. Musimy porozmawiać o Twoich znajomościach.
